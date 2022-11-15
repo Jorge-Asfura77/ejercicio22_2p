@@ -1,0 +1,17 @@
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\ejercicio22_2p.csproj.AssemblyReference.cache
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\ejercicio22_2p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\View\ShowSignatureInformation.xaml.g.cs
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\View\SignaturesList.xaml.g.cs
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\ejercicio22_2p.AssemblyInfoInputs.cache
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\ejercicio22_2p.AssemblyInfo.cs
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\ejercicio22_2p.csproj.CoreCompileInputs.cache
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\bin\Debug\netstandard2.0\ejercicio22_2p.deps.json
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\bin\Debug\netstandard2.0\ejercicio22_2p.dll
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\bin\Debug\netstandard2.0\ejercicio22_2p.pdb
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\ejercicio22_2p.dll
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\refint\ejercicio22_2p.dll
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\ejercicio22_2p.pdb
+C:\Users\jasfu\source\repos\ejercicio22_2p\ejercicio22_2p\ejercicio22_2p\obj\Debug\netstandard2.0\ref\ejercicio22_2p.dll
